@@ -11,7 +11,9 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  
+  quotient = (nume1 | num2)
+  puts quotient
+  quotient
 end
 
 def multiplication(num1, num2)
