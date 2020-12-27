@@ -23,9 +23,13 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-
+  remainder = (num1 % num2)
+  puts remainder
+  remainder
 end
 
 def square_root(num)
-
+  square = Math.sqrt(num)
+  puts square
+  square
 end
